@@ -1,0 +1,8 @@
+{
+    "ip": "localhost",
+    "port": 27017,
+    "database": "AE03",
+    "collection_records": "records",
+    "collection_usuaris": "usuaris",
+    "collection_imatges": "imatges"
+}
